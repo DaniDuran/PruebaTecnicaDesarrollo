@@ -80,11 +80,4 @@ Public Class FormularioPruebaTecnica
         End Try
     End Sub
 
-    Private Sub Menu_SelectedIndexChanged(sender As Object, e As EventArgs) Handles Menu.SelectedIndexChanged
-
-    End Sub
-
-    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
-
-    End Sub
 End Class
